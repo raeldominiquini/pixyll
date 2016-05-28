@@ -1,8 +1,8 @@
 # Site settings
 title:       Dominiquini_DigitalFabrication
 email:       raeldominiquini@hotmail.com  
-author:      Rael Dominiquini
-description: Research in Digital Fabrication
+author:      Rael Garcia Dominiquini
+description: Research in Digital Fabrication - IIT
 baseurl:     "http://raeldominiquini.github.io/"
 url:         "http://raeldominiquini.github.io/"
 date_format: "%b %-d, %Y"
