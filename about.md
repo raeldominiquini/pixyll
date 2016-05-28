@@ -5,4 +5,4 @@ permalink: /about/
 tags: about
 ---
 
-This is my blog on a Digital Fabrication Research
+This is my blog dedicated to the Summer Research on Digital Fabrication at IIT
