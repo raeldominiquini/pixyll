@@ -5,8 +5,7 @@ date:       2016-05-30 11:38:00
 summary:    How Digital Fabrication has changed the way Architecture is made
 ---
 
-  Digital Fabrication technologies came into the world to revolutionize the way things are done. The new technologies enable a multitude 
-of processes and possibilities ranging from the design to the final stages of construction.
+  Digital Fabrication technologies came into our world to revolutionize the way things are made. The new technologies enable a multitude of processes and possibilities ranging from the design to the final stages of construction.
  
   In the early days of humanity design was conceived as it was built by the hands of the artist. 
   
