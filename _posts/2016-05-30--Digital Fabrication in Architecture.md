@@ -21,7 +21,7 @@ necessary information for its construction. The drawing is no longer a concept, 
 processed and translated through CNC machines to physical reality. Thus the end result is approaching more accurately the project, thanks
 to the elimination of the human factor in the construction phase.
 
- ![Contour Crafting](raeldominiquini.github.io/images/3_contourcrafting.jpg)
+ ![Contour Crafting](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/3_contourcrafting.jpg?raw=true)
  [Contour Crafting](http://www.contourcrafting.org/)
   
   Through this research we will explore the possibilities we have through the use of new technologies of Digital Fabrication as part of 
