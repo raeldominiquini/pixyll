@@ -2,7 +2,7 @@
 layout:     post
 title:      Digital Fabrication in Architecture
 date:       2016-05-30 11:38:00
-summary:    How has Digital Fabrication changed how Architecture is made
+summary:    How Digital Fabrication has changed the way Architecture is made
 ---
 
   Digital Fabrication technologies came into the world to revolutionize the way things are done. The new technologies enable a multitude 
