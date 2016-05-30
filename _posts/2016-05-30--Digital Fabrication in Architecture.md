@@ -10,11 +10,11 @@ of processes and possibilities ranging from the design to the final stages of co
  
   In the early days of humanity design was conceived as it was built by the hands of the artist. 
   
-  ![Artisan](raeldominiquini.github.io/images/1_artisan.jpg)
+  ![Artisan](https://raw.githubusercontent.com/raeldominiquini/raeldominiquini.github.io/master/images/1_artisan.jpg)
   
   With the evolution of social structures,the intellectual part was separated from labor.
 
- ![Constructor](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/2_constructor.jpg)
+ ![Constructor](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/2_constructor.jpg?raw=true)
 
   In the present time, new technologies have made possible the unification of the project as a whole. The design already includes the 
 necessary information for its construction. The drawing is no longer a concept, but the object itself in a virtual reality, ready to be
