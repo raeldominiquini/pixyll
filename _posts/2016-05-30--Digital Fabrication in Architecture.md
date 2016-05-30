@@ -9,7 +9,7 @@ summary:    How Digital Fabrication has changed the way Architecture is made
  
   In the early days of humanity design was conceived as it was built by the hands of the artist. 
   
-  ![Artisan](https://raw.githubusercontent.com/raeldominiquini/raeldominiquini.github.io/master/images/1_artisan.jpg)
+  ![Artisan](http://file2.answcdn.com/answ-cld/image/upload/w_760,c_fill,g_faces:center,fl_lossy,q_60/v1/tk/view/answ-images/b0435029/c40b3d7b621fcc860da222f1c24dc539588f3786.jpg)
   
   With the evolution of social structures,the intellectual part was separated from labor.
 
