@@ -22,7 +22,7 @@ processed and translated through CNC machines to physical reality. Thus the end 
 to the elimination of the human factor in the construction phase.
 
  ![Contour Crafting](raeldominiquini.github.io/images/3_contourcrafting.jpg)
- _[Contour Crafting]_(http://www.contourcrafting.org/)
+ [Contour Crafting](http://www.contourcrafting.org/)
   
   Through this research we will explore the possibilities we have through the use of new technologies of Digital Fabrication as part of 
 the design process, and not only the translation from digital to physical.
