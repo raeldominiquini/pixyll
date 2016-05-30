@@ -10,7 +10,7 @@ of processes and possibilities ranging from the design to the final stages of co
  
   In the early days of humanity design was conceived as it was built by the hands of the artist. 
   
-  ![desk](raeldominiquini.github.io/images/1_artisan.jpg)
+  ![](raeldominiquini.github.io/images/1_artisan.jpg)
   
   With the evolution of social structures,the intellectual part was separated from labor.
 
