@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Digital Fabrication
-date:       2016-05-30 11:38:00
+date:       2016-05-31 11:38:00
 summary:    How Digital Fabrication has changed the way things are made
 ---
 
