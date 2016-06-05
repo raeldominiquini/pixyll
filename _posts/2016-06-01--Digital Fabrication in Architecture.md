@@ -15,3 +15,7 @@ Ultimately, with the growth of 3D printing objects, also one of the digital manu
  [DigiFab](http://digifab.fau.usp.br/)
 
 According to Fonseca, the digital manufacturing is a bet that will revolutionize the means of production, but it needs to go beyond new equipment. "We are not announcing new technologies here alone. The coming of the machines that make up the FAB LAB is very important, but we must never lose sight of the collaborative nature of FAB LAB network and our commitment to bringing this technology to the society" he says.
+
+
+
+Source: http://www5.usp.br/4837/tecnologia-de-fabricacao-digital-concretiza-ideias-de-arquitetos-e-designers/
