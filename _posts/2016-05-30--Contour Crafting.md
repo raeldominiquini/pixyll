@@ -15,6 +15,9 @@ Using fast construction techniques and materials such as concrete it builds wall
 ceilings or floors added by the crane. This system allows the insertion of various structural members, piping, wiring, utilities and even
 pleasure and comfort audiovisual devices such as air conditioning systems, and in that the wall layers are built.
 
+ ![Contour Crafting](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/3_contourcrafting.jpg?raw=true)
+ [Contour Crafting](http://www.contourcrafting.org/)
+
 Khoshnevis says his system could build an entire house in one day and his crane electrically powered would produce little debris resulting
 from the construction process. The ‘Discoveries This Week’ program from ‘The Science Channel’ reports that considering that conventional
 construction of homes generates 3 to 7 tons of debris and releases polluting gases through the exhaust of its builder vehicles, the 
