@@ -2,7 +2,7 @@
 layout:     post
 title:      The Advantages of Digital Fabrication
 date:       2016-06-02 04:35:00
-summary:    How the new tools are making the desing process more eficient
+summary:    How the new tools are making the design process more eficient
 ---
 
 Digital manufacturing has been around for a long time, used for the first time in 1952 in the production complex aircraft parts, but now it is more accessible than ever. As there are currently much cheaper equipment (10 years ago they costed 10 times more than today), more and more people can use these machines to make their ideas, and so ordinary citizens can finally produce their own objects with the same technology and precision of large companies. Digital fabrication is often called Fast Prototyping as it allows us to test a product idea in a short time.
