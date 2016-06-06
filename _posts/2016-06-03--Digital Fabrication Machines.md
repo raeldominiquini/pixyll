@@ -10,7 +10,7 @@ methods of producing an object:
 
 • Adding materials (additive process), layer by layer, to form the complete piece.
 
-• Removing Material (subtractive process), in which the final object is formed by removing the excess from the material block until the
+• Removing materials (subtractive process), in which the final object is formed by removing the excess from the material block until the
 desired shape is achieved.
 
 That also happens in digital fabrication, which has more techniques to remove material than to add it. A saw or drill are examples of 
@@ -54,7 +54,7 @@ Another feature are the axes of work. Most digital fabrication machines have a m
 material (depending on type of machine). This piece tends to move along one or more axes, just as the print head a common inkjet printer. 
 Most machines have between 3 to 5 axes, which determine the complexity of the parts that can be produced.
  
-![Contour Crafting](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/8.jpg?raw=true)
+![Contour Crafting](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/8.jpg?raw=true)                   
 Axes
 
 Depending on the type of machine and the type of material used (metal, plastics, resins, etc.), different accessories may be used. As an
