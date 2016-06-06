@@ -16,25 +16,33 @@ desired shape is achieved.
 That also happens in digital fabrication, which has more techniques to remove material than to add it. A saw or drill are examples of 
 material removal tools, for example.
 
-_Additive Process: 
+__Additive Process:__
 
-![3d Printer](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/6_layers.jpg?raw=true)
+![3d Printer](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/6_layers.jpg?raw=true)                  
 3d Printer
 
 •	Fused Deposition Modeling (FDM)
+
 •	Selective Laser Synthering (SLS)
+
 •	Stereolithography (SLA)
+
 •	Inkjet 3D Printing (3DP)
+
 •	Plastic Sheet Lamination (PSL)
 
-_Subtractive Process:
 
-![CNC Router](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/7_removing.jpg?raw=true)
+__Subtractive Process:__
+
+![CNC Router](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/7_removing.jpg?raw=true)                
 CNC Router
 
 •	Knife Cutter
+
 •	Laser Cutter
+
 •	Waterjet Cutter
+
 •	CNC Router
 
 Most digital fabrication machines have a limited amount of work, which determines the maximum size of any part that is manufactured on
