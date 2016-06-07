@@ -17,7 +17,7 @@ Despite being a complex technology, it has gained much ground in Medicine. It pr
 the life of human beings, replace, repair and even improve the capabilities of the body would be made possible.
 
 ![3d ear Bioprint](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/9_bioprinting.jpg?raw=true)
-3d ear Bioprint
+3d Bioprint
 
 A company called [Organovo](http://organovo.com/), well known for its contribution to 3D printing, has created organs such as liver 
 cells and blood vessels. However, the only downside to this is that the liver was created in miniature, but its functions are completely
