@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Inspiration
+title:      Ideas for the project
 date:       2016-06-07 09:00:00
-summary:    The machines behind the magic
+summary:    Just some inspiration
 ---
 
 Inspirational projects:
