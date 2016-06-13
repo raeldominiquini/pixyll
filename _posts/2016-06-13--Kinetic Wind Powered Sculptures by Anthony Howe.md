@@ -16,3 +16,4 @@ shapes or flat fiberglass covered discs, I hope the pieces assume a spare, linea
 animation when the wind picks up,” says Anthony.
 
 [howeart.net](http://www.howeart.net/index.html)
+[Source](http://www.demilked.com/kinetic-sculptures-anthony-howe/)
