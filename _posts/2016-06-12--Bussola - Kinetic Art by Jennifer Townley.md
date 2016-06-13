@@ -13,4 +13,4 @@ appearance and operation of the machine.
 
 The works derive from her fascination for mechanics and the way the human brain responds to repetitive movements and patterns. 
 
-[http://www.jennifertownley.com](http://www.jennifertownley.com)
+[howeart.net](http://www.howeart.net/index.html)
