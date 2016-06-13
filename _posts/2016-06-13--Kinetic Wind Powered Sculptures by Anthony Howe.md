@@ -7,6 +7,8 @@ summary:    Kinetic Wind Powered Sculptures
 
 [![ScreenShot](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/15_Wind.png?raw=true)](https://www.youtube.com/watch?v=gyRJrl4WoN8&list=UUixdwLf4RpXJR31mU4zKLfw)
 
+[howeart.net](http://www.howeart.net/index.html)
+
 American sculptor Anthony Howe creates kinetic sculptures that once hit by even a slightest whiff of breeze start moving in hypnotizing
 circular motions. The artist has been making these skilfully engineered stainless steel pieces for the last 17 years:
 
@@ -14,7 +16,5 @@ circular motions. The artist has been making these skilfully engineered stainles
 microbiological or astronomical models. Utilizing primarily stainless steel armatures that are driven either by hammered curvilinear 
 shapes or flat fiberglass covered discs, I hope the pieces assume a spare, linear elegance when conditions are still, mutating to raucous
 animation when the wind picks up,” says Anthony.
-
-[howeart.net](http://www.howeart.net/index.html)
 
 [Source](http://www.demilked.com/kinetic-sculptures-anthony-howe/)
