@@ -12,3 +12,5 @@ A building's capability for motion can be used just to: enhance its aesthetic qu
 The possibilities for practical implementations of kinetic architecture increased sharply in the late-20th century due to advances in mechanics, electronics, and robotics. 
 
 [Source](https://en.wikipedia.org/wiki/Kinetic_architecture)
+
+[![https://www.youtube.com/watch?v=mlSvc7GAMW0&list=PLPZHsub1UR5Ub8MJuSub8_tcra20UOka3](https://www.youtube.com/watch?v=mlSvc7GAMW0&list=PLPZHsub1UR5Ub8MJuSub8_tcra20UOka3)
