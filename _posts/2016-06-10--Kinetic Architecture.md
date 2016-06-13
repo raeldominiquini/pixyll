@@ -13,4 +13,4 @@ The possibilities for practical implementations of kinetic architecture increase
 
 [Source](https://en.wikipedia.org/wiki/Kinetic_architecture)
 
-[![(https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/12_KA.jpg?raw=true)](https://www.youtube.com/watch?v=mlSvc7GAMW0&list=PLPZHsub1UR5Ub8MJuSub8_tcra20UOka3)
+[![ScreenShot](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/12_KA.jpg?raw=true)](https://www.youtube.com/watch?v=mlSvc7GAMW0&list=PLPZHsub1UR5Ub8MJuSub8_tcra20UOka3)
