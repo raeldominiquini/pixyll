@@ -13,7 +13,7 @@ thanks to 3D printing technology.
 Over the course of the last several months, Branch has been able to create some intricate 3D printed demo pieces of their walls. These
 walls are based on natural forms, combining light-weight architecture with super strong engineering.
 
-“It bridges art and function and I’m excited to see how it will change the way we think about the spaces where we live and work,”
+> “It bridges art and function and I’m excited to see how it will change the way we think about the spaces where we live and work,”
 explains Shawn Thorne of Branch Technology. “We can’t wait to show you what the final products can look like.”
 
 The process of printing these building walls is called Cellular Fabrication™ (C-Fab™), and features Branch’s patented freeform 3D 
@@ -24,7 +24,7 @@ while using a special algorithm to print very complex geometries without any req
 ![Branch Technology](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/11_Branch.jpg?raw=true)            
 [Branch Technology](http://www.branch.technology/)
 
-“Branch Technology is taking construction into a new era,” the company explains. “Nature has unlimited creativity. In a similar manner,
+> “Branch Technology is taking construction into a new era,” the company explains. “Nature has unlimited creativity. In a similar manner,
 Cellular Fabrication™ allows virtually unlimited design freedom using economical construction materials. The result is that all 
 construction projects – every home, every office – can enjoy cost effective design freedom.”
 
