@@ -25,3 +25,6 @@ The intention of that machine would be to translate the power of the wind into a
 [Inspiration I](http://retooling.tumblr.com/page/19)
 
 [Inspiration II](http://retooling.tumblr.com/page/23)
+
+<video src="/media/2016-06-10-Caustics-in-Chicago/VídeoEditado.mp4" width="618" height="347" controls="" preload=""></video>
+<p>Video: Caustics on a ship</p>
