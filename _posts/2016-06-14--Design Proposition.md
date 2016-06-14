@@ -21,3 +21,7 @@ The source of energy is intended to be primarily natural, probably trough the wi
 When powered, the machine would both translate and move in a horizontal axis. In the extremities of the device there will be a component responsible for affecting a neutral background to reflect the intensity of the wind. That component could be ink over a plain paper, a dissolvent over a certain material or a sculpting device over an easy carving material.
 
 The intention of that machine would be to translate the power of the wind into a visual opportunity that looks visually interesting and ephemeral through the kinetic structure as it moves and at the same time print the interactions in a permanent way.
+
+[![Inspiration I](http://retooling.tumblr.com/page/19)
+
+[![Inspiration II](http://retooling.tumblr.com/page/23)
