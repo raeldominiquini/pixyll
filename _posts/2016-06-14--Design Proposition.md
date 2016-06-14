@@ -3,6 +3,8 @@ layout:     post
 title:      Design Proposition
 date:       2016-06-14 09:00:00
 summary:    Ideas for the device
+image:
+      url: /media/2016-06-10-Caustics-in-Chicago/DSC02692.JPG
 ---
 
 Through this research I am going to explore kinetic systems while looking for a way to get permanent results out of the ephemeral 
