@@ -28,7 +28,7 @@ The intention of that machine would be to translate the power of the wind into a
 
 [Inspiration II](http://retooling.tumblr.com/page/23)
 
-<video src="https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/Capture_20160614.mp4" width="618" height="347" controls="" preload=""></video>
+<video src="http://freisribeiro.github.io/media/2016-06-10-Caustics-in-Chicago/V%C3%ADdeoEditado.mp4" height="347" controls="" preload=""></video>
 <p>Video: Video</p>
 
-http://freisribeiro.github.io/media/2016-06-10-Caustics-in-Chicago/V%C3%ADdeoEditado.mp4
+
