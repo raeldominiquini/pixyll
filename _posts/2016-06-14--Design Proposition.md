@@ -22,6 +22,6 @@ When powered, the machine would both translate and move in a horizontal axis. In
 
 The intention of that machine would be to translate the power of the wind into a visual opportunity that looks visually interesting and ephemeral through the kinetic structure as it moves and at the same time print the interactions in a permanent way.
 
-[![Inspiration I](http://retooling.tumblr.com/page/19)
+[Inspiration I](http://retooling.tumblr.com/page/19)
 
-[![Inspiration II](http://retooling.tumblr.com/page/23)
+[Inspiration II](http://retooling.tumblr.com/page/23)
