@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Design Considerations
-date:       2016-06-20 09:00:00
+date:       2016-06-21 09:00:00
 summary:    Going through the details for the design  
 ---
 
