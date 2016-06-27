@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Making it work 
-date:       2016-06-21 09:00:00
+date:       2016-06-22 09:00:00
 summary:    Overcoming the obstacles to make it function as desired  
 ---
 
