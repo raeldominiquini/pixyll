@@ -16,3 +16,7 @@ due to the thickness.
 The next step is to figure out a way to allow it to rotate without the need to have a hole around the whole piece.
 
 ![Design I](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/17_1.jpg?raw=true)
+
+![Design I](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/20_1.png?raw=true)
+
+![Design I](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/21_1.png?raw=true)
