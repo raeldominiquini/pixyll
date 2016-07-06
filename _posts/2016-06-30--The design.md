@@ -9,4 +9,9 @@ To adjust the design so it would work as desired I created an intermediate layer
 
 The layer would be really thin, just to keep the air from passing through. As it's thin, it wouldn't stop the rotation.
 
+The intermediate layer would allow the rotating part to have a single thickness through all of it, making it lasercutter friendly.
+
+After talking to Professor Brett Balogh, who is conducing our research, we decided I should keep looking for a more elegang way to allow 
+it to rotate without having to add another layer but rather making the design of the central piece more efficient.
+
 ![Design I](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/19_2.jpg?raw=true)
