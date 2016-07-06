@@ -14,4 +14,4 @@ The intermediate layer would allow the rotating part to have a single thickness 
 After talking to Professor Brett Balogh, who is conducing our research, we decided I should keep looking for a more elegang way to allow 
 it to rotate without having to add another layer but rather making the design of the central piece more efficient.
 
-![Design I](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/19_2.jpg?raw=true)
+![Design II](https://github.com/raeldominiquini/raeldominiquini.github.io/blob/master/images/19_2.jpg?raw=true)
